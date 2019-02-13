@@ -1,0 +1,5 @@
+ID,Nom,Date de début,Date de fin,Durée,Avancée,Coût,Responsable,Prédécesseurs,Numéro hiérarchique,Ressources,Assignments,Nouvelle tâche,Lien internet,Notes
+0,Fiches,07/02/19,07/02/19,1,0,0,,,1,,,,,
+2,Planning,07/02/19,07/02/19,1,0,0,,,2,,,,,
+4,Presentation merise,08/02/19,14/02/19,5,0,0,,,3,,,,,
+5,M_O_T Etude de cas,18/02/19,20/02/19,3,0,0,,,4,,,,,
