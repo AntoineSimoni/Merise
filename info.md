@@ -21,15 +21,21 @@ Pour projets de toutes tailles.
 #  Le Modèle Conceptuel de Communication (MCC)
 
 Modèle de conception insistant sur les relations entre les différents acteurs.
+
+
 ![](https://github.com/AntoineSimoni/Merise/blob/master/Images/MCC.gif?raw=true)
 
 
 # Le Modèle Conceptuel de Traitements (MCT)
 
 Modèle de conception mettant en évidence les choix entre plusieurs options.
+
+
 ![](https://github.com/AntoineSimoni/Merise/blob/master/Images/MCD.gif?raw=true)
 
 # Le Modèle Conceptuel de Données (MCD)
 
 Représentation graphique des champs d’une base de données nécessaire à sa conception. Ils sont regroupés dans des tables associées entre elles.
+
+
 ![](https://github.com/AntoineSimoni/Merise/blob/master/Images/MCT.gif?raw=true)
